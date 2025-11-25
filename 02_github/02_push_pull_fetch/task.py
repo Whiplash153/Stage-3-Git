@@ -3,7 +3,7 @@ Task: Push / Pull / Fetch mechanics in GitHub
 
 Steps:
 
-1. Create a new folder '01_push_pull_fetch' with files:
+1. Create a new folder '02_push_pull_fetch' with files:
    - task.py
    - README.md
    - demo.txt
