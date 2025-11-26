@@ -1,1 +1,1 @@
-Original line for conflict demonstration.
+Version A: edited in branch A.
