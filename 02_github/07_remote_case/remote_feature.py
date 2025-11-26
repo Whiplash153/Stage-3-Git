@@ -1,2 +1,3 @@
 def get_message():
-    return "Feature from remote case"
+    return "Version B: alternative conflict change"
+
