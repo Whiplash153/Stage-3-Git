@@ -1,3 +1,2 @@
 def get_message():
-    return "Version B: alternative conflict change"
- 
+    return "Updated message from feature branch 2"
