@@ -1,2 +1,2 @@
 def get_message():
-    return "Feature from remote case"
+    return "Updated message from feature branch 2"
